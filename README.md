@@ -1,5 +1,5 @@
 # Interactive Katacoda Scenarios
-Branch: {{site.github.source.branch}}
+Branch: {{ site.github.source.branch }}
 
 [![](http://shields.katacoda.com/katacoda/gkohen/count.svg)](https://www.katacoda.com/gkohen "Get your profile on Katacoda.com")
 
